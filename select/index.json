@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "identity(Inori Minase LIVE TOUR 2023 SCRAP ART)",
+  "base_artist": "水瀬いのり",
+  "createdAt": "2026-01-12T12:01:28.631126Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "identity",
+      "artist": "水瀬いのり",
+      "has_synced": false,
+      "path": "select/pl_01_identity_水瀬いのり.txt"
+    }
+  ]
+}
